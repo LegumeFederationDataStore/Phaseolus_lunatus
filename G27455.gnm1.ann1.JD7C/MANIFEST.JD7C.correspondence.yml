@@ -1,0 +1,19 @@
+%YAML 1.2
+---
+phalu.G27455.gnm1.ann1.JD7C.cds.fna.gz: Plunatus_563_V1.cds.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.cds_low_confidence.fna.gz: Plunatus_563_V1.cds.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.cds_primaryTranscript.fna.gz: Plunatus_563_V1.cds_primaryTranscriptOnly.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.cds_primaryTranscript_low_confidence.fna.gz: Plunatus_563_V1.cds_primaryTranscriptOnly.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.gene_models_low_confidence.gff3.gz: Plunatus_563_V1.gene.gff3.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.gene_models_main.gff3.gz: Plunatus_563_V1.gene.gff3.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.iprscan.gff3.gz: NA
+phalu.G27455.gnm1.ann1.JD7C.iprscan_low_confidence.gff3: NA
+phalu.G27455.gnm1.ann1.JD7C.legfed_v1_0.M65K.gfa.tsv.gz: NA
+phalu.G27455.gnm1.ann1.JD7C.protein.faa.gz: Plunatus_563_V1.protein.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.protein_low_confidence.faa.gz: Plunatus_563_V1.protein.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.protein_primaryTranscript.faa.gz: Plunatus_563_V1.protein_primaryTranscriptOnly.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.protein_primaryTranscript_low_confidence.faa.gz: Plunatus_563_V1.protein_primaryTranscriptOnly.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.transcript.fna.gz: Plunatus_563_V1.transcript.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.transcript_low_confidence.fna.gz: Plunatus_563_V1.transcript.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.transcript_primaryTranscript.fna.gz: Plunatus_563_V1.transcript_primaryTranscriptOnly.fa.gz (subset)
+phalu.G27455.gnm1.ann1.JD7C.transcript_primaryTranscript_low_confidence.fna.gz: Plunatus_563_V1.transcript_primaryTranscriptOnly.fa.gz (subset)

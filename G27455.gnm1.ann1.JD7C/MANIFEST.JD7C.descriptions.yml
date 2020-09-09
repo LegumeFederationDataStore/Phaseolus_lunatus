@@ -1,0 +1,19 @@
+%YAML 1.2
+---
+phalu.G27455.gnm1.ann1.JD7C.cds.fna.gz: High confidence coding sequences
+phalu.G27455.gnm1.ann1.JD7C.cds_low_confidence.fna.gz: Low confidence coding sequences
+phalu.G27455.gnm1.ann1.JD7C.cds_primaryTranscript.fna.gz: High confidence coding sequences- primary transcript per gene
+phalu.G27455.gnm1.ann1.JD7C.cds_primaryTranscript_low_confidence.fna.gz: Low confidence coding sequences- primary transcript per gene
+phalu.G27455.gnm1.ann1.JD7C.gene_models_low_confidence.gff3.gz: Low confidence gene models, with functional descriptors assigned by AHRD
+phalu.G27455.gnm1.ann1.JD7C.gene_models_main.gff3.gz: High confidence gene models, with functional descriptors assigned by AHRD
+phalu.G27455.gnm1.ann1.JD7C.iprscan.gff3.gz: Interproscan results on high confidence primary proteins
+phalu.G27455.gnm1.ann1.JD7C.iprscan_low_confidence.gff3: Interproscan results on low confidence primary proteins
+phalu.G27455.gnm1.ann1.JD7C.legfed_v1_0.M65K.gfa.tsv.gz: Gene family assignments
+phalu.G27455.gnm1.ann1.JD7C.protein.faa.gz: High confidence predicted protein sequence
+phalu.G27455.gnm1.ann1.JD7C.protein_low_confidence.faa.gz: Low confidence predicted protein sequence
+phalu.G27455.gnm1.ann1.JD7C.protein_primaryTranscript.faa.gz: High confidence predicted protein sequence- primary transcript per gene
+phalu.G27455.gnm1.ann1.JD7C.protein_primaryTranscript_low_confidence.faa.gz: Low confidence predicted protein sequence- primary transcript per gene
+phalu.G27455.gnm1.ann1.JD7C.transcript.fna.gz: High confidence transcript sequences
+phalu.G27455.gnm1.ann1.JD7C.transcript_low_confidence.fna.gz: Low confidence transcript sequences
+phalu.G27455.gnm1.ann1.JD7C.transcript_primaryTranscript.fna.gz: High confidence transcript sequences- primary transcript per gene
+phalu.G27455.gnm1.ann1.JD7C.transcript_primaryTranscript_low_confidence.fna.gz: Low confidence transcript sequences- primary transcript per gene

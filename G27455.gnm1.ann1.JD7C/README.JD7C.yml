@@ -1,0 +1,59 @@
+%YAML 1.2
+---
+identifier: JD7C
+
+provenance: The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://phytozome.jgi.doe.gov
+
+subject: Phaseolus lunatus accession G27455 annotation files from genome assembly V1
+
+related_to: Genome assembly files in directory Phaseolus_lunatus/G27455.gnm1.7NXX
+
+scientific_name: Phaseolus lunatus
+
+taxid: 3884
+
+bioproject: PRJNA596114
+
+scientific_name_abbrev: phalu
+
+genotype: G27455
+
+description: Genome annotations for the Phaseolus lunatus G27455 V1 genome assembly.
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2020-07
+
+local_file_creation_date: 2020-07
+
+publication_doi: none
+
+dataset_release_date: 2020-09-09
+
+publication_title: none
+
+contributors: Maria Isabel Chac√n, Jorge Duitama, Paul Gepts and Clara Bermudez
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: open 
+
+keywords: lima bean
+
+citations: none
+
+file_transformation: 
+  - Prefix IDs with phalu.G27455.gnm1.ann1.
+  - Removed .p suffix from protein IDs
+  - Segregated low and high confidence transcripts as defined by phytozome (main files here contain only the high confidence).
+  - Added AHRD descriptors and gene family assignments for high confidence genes
+
+changes: 
+  - 2019-12-18 initial repository creation
+

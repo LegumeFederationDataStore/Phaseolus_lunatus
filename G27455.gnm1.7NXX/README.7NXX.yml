@@ -1,0 +1,56 @@
+%YAML 1.2
+---
+identifier: 7NXX
+
+provenance: The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://phytozome.jgi.doe.gov
+
+subject: Phaseolus lunatus accession G27455 genome assembly V1
+
+related_to: Genome annotation files in directory Phaseolus_lunatus/G27455.gnm1.ann1.JD7C
+
+scientific_name: Phaseolus lunatus
+
+taxid: 3884
+
+bioproject: PRJNA596114
+
+scientific_name_abbrev: phalu
+
+genotype: G27455
+
+description: Files in this directory include the genome assembly for Phaseolus lunatus accession G27455
+
+dataset_doi: none
+
+genbank_accession: GCA_013389735.1
+
+original_file_creation_date: 2020-07
+
+local_file_creation_date: 2020-07
+
+publication_doi: none
+
+dataset_release_date: 2020-09-09
+
+publication_title: none
+
+contributors: Maria Isabel Chac√n, Jorge Duitama, Paul Gepts and Clara Bermudez
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: open
+
+keywords: lima bean
+
+citations: None
+
+file_transformation: 
+  - Prefix IDs with phalu.G27455.gnm1.
+
+changes: 
+  - 2020-09-09 initial repository creation
+
