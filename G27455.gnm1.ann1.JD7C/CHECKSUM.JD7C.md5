@@ -6,7 +6,7 @@ d681998d8a0ede607ba35eff5cd506db ./phalu.G27455.gnm1.ann1.JD7C.iprscan.gff3.gz
 095b1872866f8dc3c61b024723a8d3ec ./phalu.G27455.gnm1.ann1.JD7C.protein_low_confidence.faa.gz
 6b6c1e3503b87383711856aa401dbe7b ./Plunatus_563_V1.annotation_info.txt
 41999c7b7645c8f7937c42f1fdfd659b ./MANIFEST.JD7C.descriptions.yml
-f6ac0df4fe7109037c894503b8d20525 ./phalu.G27455.gnm1.ann1.JD7C.cds.fna.gz
+aef393babcfe052d8b36deba85c9a3f8 ./phalu.G27455.gnm1.ann1.JD7C.cds.fna.gz
 155e407ce5226ab4c5a6a14d4d30c734 ./usage_policy.txt
 dd170a2d058c87976ead23c203a864a5 ./MANIFEST.JD7C.correspondence.yml
 3dec8651db75b57166973e73caee6083 ./phalu.G27455.gnm1.ann1.JD7C.gene_models_main.gff3.gz
@@ -17,7 +17,7 @@ ac51039422c5cc17ebe6a36d4f16f3e0 ./Plunatus_563_V1.lowConfidenceTranscripts.txt
 fa6dd596f27fb8cc4bbe762c6f558ca9 ./phalu.G27455.gnm1.ann1.JD7C.legfed_v1_0.M65K.gfa.tsv.gz
 0ce12201aa8024e81eb42469f473f69f ./phalu.G27455.gnm1.ann1.JD7C.protein_primaryTranscript_low_confidence.faa.gz
 cd475ed4426c14f35c72e77dd9f82b31 ./README.JD7C.yml
-0a7c34d5c31fac27dc3f8c35ef6cff1e ./phalu.G27455.gnm1.ann1.JD7C.cds_low_confidence.fna.gz
+dab6d5bc0c5022448403ac1353bd0fa0 ./phalu.G27455.gnm1.ann1.JD7C.cds_low_confidence.fna.gz
 6a8864dfe639f9663e91faad3b195b43 ./phalu.G27455.gnm1.ann1.JD7C.cds_primaryTranscript_low_confidence.fna.gz
 a3401d7efd73472176cbec11dfde6541 ./phalu.G27455.gnm1.ann1.JD7C.transcript_primaryTranscript_low_confidence.fna.gz
 8a772cb7208f0a9fd6b6069fc97c3066 ./phalu.G27455.gnm1.ann1.JD7C.gene_models_main.gff3.gz.tbi
